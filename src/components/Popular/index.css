@@ -1,0 +1,8 @@
+.myListHandle {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.mainDiv {
+  background-color: #131313;
+}

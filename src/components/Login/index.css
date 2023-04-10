@@ -1,0 +1,78 @@
+.main-div {
+  /* background-image: url('https://res.cloudinary.com/dhowpxwxx/image/upload/v1676697364/ASHOK/netfilx_1_yd7fb5.png'); */
+  background: linear-gradient(
+      116.64deg,
+      rgba(0, 0, 0, 0.8) 0.46%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    url('https://res.cloudinary.com/dhowpxwxx/image/upload/v1676697364/ASHOK/netfilx_1_yd7fb5.png');
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+  padding: 0px;
+}
+.secondDiv {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+label {
+  /* position: absolute; */
+  width: 65px;
+  height: 16px;
+  left: 0px;
+  top: 0px;
+
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.secondDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.firstDiv {
+  width: 180px;
+  height: 52px;
+}
+.myHeading {
+  /* width: 78px;
+  height: 40px; */
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 40px;
+  /* identical to box height, or 125% */
+
+  /* General/White */
+
+  color: #ffffff;
+}
+.myCard {
+  display: flex;
+  flex-direction: column;
+}
+.myForm {
+  width: 456px;
+  height: 440px;
+
+  display: flex;
+  flex-direction: column;
+
+  background: #0c0b10;
+  opacity: 0.8;
+  border-radius: 8px;
+}

@@ -1,0 +1,11 @@
+.mydiv {
+  background-size: cover;
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+}
+.myImg {
+  margin: 30px;
+  height: 200px;
+  width: 250px;
+}
